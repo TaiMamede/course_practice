@@ -35,7 +35,7 @@ b = (not(q<p)) or (q != p)
 print(b)
 
 #Prioridades em Python:
-    
+
 #() Parenteses
 #** Exponente
 #+x, -x soma ou subtração unária
