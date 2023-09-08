@@ -9,7 +9,7 @@
 
 soma = 0
 for i in range(1,6):
-    idade = int(input("Entre com a idade: "))
+    idade = int(input(f"Entre com a idade {i}: "))   ##o "f >>> formatado >>> aceita chaves
     soma = soma + idade
 media = soma/5
 print("A media das idades são: ", media)
