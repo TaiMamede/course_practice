@@ -5,7 +5,7 @@
 #seja digitado.
 
 #Ex.
-#Programa para calcular a idade media de seus colegas
+#Programa para calcular a idade media dos alunos
 
 soma = 0
 for i in range(1,6):
